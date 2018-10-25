@@ -1,8 +1,16 @@
 .border {
     height: 200px;
+    border: 2px solid red;
+    padding: 57px;
+    border-radius: 25px;
     
   }
 
   h2{
       margin-bottom: 20px;
   }
+
+#res{
+    color:rgb(24, 124, 91);
+    font-size: 1.7em;
+}
