@@ -1,7 +1,7 @@
-.border {
-    height: 200px;
-    border: 2px solid red;
+.card {
+    border: 1px solid gray;
     padding: 57px;
+
     border-radius: 25px;
     
   }
@@ -13,4 +13,14 @@
 #res{
     color:rgb(24, 124, 91);
     font-size: 1.7em;
+}
+
+.nav {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+}
+.nav li{
+  text-align: center;
+
 }
